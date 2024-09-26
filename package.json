@@ -1,0 +1,13 @@
+{
+    "name": "bandeiras-geradas-dinamicamente",
+    "version": "1.0.0",
+    "description": "Projeto de teste para trabalhar com elementos dinamicos em js",
+    "type": "module",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Seu Nome",
+    "license": "ISC"
+  }
